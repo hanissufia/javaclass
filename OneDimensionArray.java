@@ -1,6 +1,6 @@
 public class OneDimensionArray {
     public static void main(String[] args) {
-        int [] numbers = new int [5];
+        int [] numbers = new int [5]; //5 parameters inside your array
 
         numbers[0] = 10;
         numbers[1] = 20;
