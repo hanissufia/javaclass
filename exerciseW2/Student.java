@@ -1,4 +1,4 @@
-package exerciseW2;
+
 public class Student {
     private String name;
     private int scores[] = {0,0,0};
